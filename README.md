@@ -6,7 +6,7 @@ A Rust implementation of a fast audio fingerprinting system inspired by Shazam, 
 ### Build
 ```bash
 # Clone the repository
-git clone https://github.com/username/shezem-rs.git
+git clone https://github.com/Kither12/shezem-rs.git
 cd shezem-rs
 
 # Build the project
